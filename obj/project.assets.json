@@ -12536,23 +12536,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "/Users/julieglasdam/.nuget/packages/": {},
+=======
+    "/Users/ronnilenvighansen/.nuget/packages/": {},
+>>>>>>> origin/master
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/Users/julieglasdam/Documents/DotNet/MentorOnline/MentorOnlinev1/MentorOnlinev1.csproj",
       "projectName": "MentorOnlinev1",
       "projectPath": "/Users/julieglasdam/Documents/DotNet/MentorOnline/MentorOnlinev1/MentorOnlinev1.csproj",
       "packagesPath": "/Users/julieglasdam/.nuget/packages/",
       "outputPath": "/Users/julieglasdam/Documents/DotNet/MentorOnline/MentorOnlinev1/obj/",
+=======
+      "projectUniqueName": "/Users/ronnilenvighansen/Documents/MentorOnlinev1/MentorOnlinev1.csproj",
+      "projectName": "MentorOnlinev1",
+      "projectPath": "/Users/ronnilenvighansen/Documents/MentorOnlinev1/MentorOnlinev1.csproj",
+      "packagesPath": "/Users/ronnilenvighansen/.nuget/packages/",
+      "outputPath": "/Users/ronnilenvighansen/Documents/MentorOnlinev1/obj/",
+>>>>>>> origin/master
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "/Users/julieglasdam/.nuget/NuGet/NuGet.Config"
+=======
+        "/Users/ronnilenvighansen/.nuget/NuGet/NuGet.Config"
+>>>>>>> origin/master
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12574,6 +12590,14 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+<<<<<<< HEAD
+=======
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "2.0.0",
+            "autoReferenced": true
+          },
+>>>>>>> origin/master
           "Microsoft.AspNetCore.All": {
             "target": "Package",
             "version": "[2.0.3, )"
