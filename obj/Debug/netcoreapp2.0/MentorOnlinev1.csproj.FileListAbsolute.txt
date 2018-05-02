@@ -1,0 +1,10 @@
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1/bin/Debug/netcoreapp2.0/MentorOnlinev1.deps.json
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1/bin/Debug/netcoreapp2.0/MentorOnlinev1.runtimeconfig.json
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1/bin/Debug/netcoreapp2.0/MentorOnlinev1.runtimeconfig.dev.json
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1/bin/Debug/netcoreapp2.0/MentorOnlinev1.dll
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1/bin/Debug/netcoreapp2.0/MentorOnlinev1.pdb
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1/obj/Debug/netcoreapp2.0/MentorOnlinev1.csproj.CoreCompileInputs.cache
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1/obj/Debug/netcoreapp2.0/MentorOnlinev1.AssemblyInfoInputs.cache
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1/obj/Debug/netcoreapp2.0/MentorOnlinev1.AssemblyInfo.cs
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1/obj/Debug/netcoreapp2.0/MentorOnlinev1.dll
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1/obj/Debug/netcoreapp2.0/MentorOnlinev1.pdb
