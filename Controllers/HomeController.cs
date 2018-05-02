@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using MentorOnlinev1.Models;
 using MentorOnlinev1.Models.Entities;
 
-
+ 
 namespace MentorOnlinev1.Controllers
 {
     public class HomeController : Controller
