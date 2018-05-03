@@ -18,3 +18,13 @@
 /Users/ronnilenvighansen/Documents/MentorOnlinev1/obj/Debug/netcoreapp2.0/MentorOnlinev1.AssemblyInfo.cs
 /Users/ronnilenvighansen/Documents/MentorOnlinev1/obj/Debug/netcoreapp2.0/MentorOnlinev1.dll
 /Users/ronnilenvighansen/Documents/MentorOnlinev1/obj/Debug/netcoreapp2.0/MentorOnlinev1.pdb
+/Users/julieglasdam/Documents/DotNet/MentorOnline/MentorOnlinev1/bin/Debug/netcoreapp2.0/MentorOnlinev1.deps.json
+/Users/julieglasdam/Documents/DotNet/MentorOnline/MentorOnlinev1/bin/Debug/netcoreapp2.0/MentorOnlinev1.runtimeconfig.json
+/Users/julieglasdam/Documents/DotNet/MentorOnline/MentorOnlinev1/bin/Debug/netcoreapp2.0/MentorOnlinev1.runtimeconfig.dev.json
+/Users/julieglasdam/Documents/DotNet/MentorOnline/MentorOnlinev1/bin/Debug/netcoreapp2.0/MentorOnlinev1.dll
+/Users/julieglasdam/Documents/DotNet/MentorOnline/MentorOnlinev1/bin/Debug/netcoreapp2.0/MentorOnlinev1.pdb
+/Users/julieglasdam/Documents/DotNet/MentorOnline/MentorOnlinev1/obj/Debug/netcoreapp2.0/MentorOnlinev1.csproj.CoreCompileInputs.cache
+/Users/julieglasdam/Documents/DotNet/MentorOnline/MentorOnlinev1/obj/Debug/netcoreapp2.0/MentorOnlinev1.AssemblyInfoInputs.cache
+/Users/julieglasdam/Documents/DotNet/MentorOnline/MentorOnlinev1/obj/Debug/netcoreapp2.0/MentorOnlinev1.AssemblyInfo.cs
+/Users/julieglasdam/Documents/DotNet/MentorOnline/MentorOnlinev1/obj/Debug/netcoreapp2.0/MentorOnlinev1.dll
+/Users/julieglasdam/Documents/DotNet/MentorOnline/MentorOnlinev1/obj/Debug/netcoreapp2.0/MentorOnlinev1.pdb
